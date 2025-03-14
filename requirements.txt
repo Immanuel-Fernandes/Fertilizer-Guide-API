@@ -1,9 +1,6 @@
-streamlit
-pandas
-matplotlib
-seaborn
-markupsafe
-base64
 fastapi
-pydantic
 uvicorn
+gunicorn
+matplotlib
+pandas
+markupsafe
